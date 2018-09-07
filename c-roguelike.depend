@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1536285868 source:/home/logan/git/c-roguelike/src/dungeon.c
+	"dungeon.h"
+
+1536261887 /home/logan/git/c-roguelike/src/dungeon.h
+	<ncurses.h>
+	<stdlib.h>
+	"utility.h"
+
+1536121861 /home/logan/git/c-roguelike/include/ncurses.h
+	"ncurses/ncurses.h"
+
+1536121861 /home/logan/git/c-roguelike/include/ncurses/ncurses.h
+	<ncurses/ncurses_dll.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncurses/unctrl.h>
+
+1536121861 /home/logan/git/c-roguelike/include/ncurses/ncurses_dll.h
+
+1536121861 /home/logan/git/c-roguelike/include/ncurses/unctrl.h
+	<ncurses/curses.h>
+
+1536121861 /home/logan/git/c-roguelike/include/ncurses/curses.h
+	<ncurses/ncurses_dll.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncurses/unctrl.h>
+
+1536121861 /home/logan/git/c-roguelike/src/utility.h
+	<stdlib.h>
+
+1536121861 source:/home/logan/git/c-roguelike/src/main.c
+	<ncurses.h>
+	<stdlib.h>
+	<time.h>
+	"dungeon.h"
+
+1536121861 source:/home/logan/git/c-roguelike/src/utility.c
+	"utility.h"
+
